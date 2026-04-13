@@ -179,7 +179,7 @@ Next: [次に推奨されるイベント or 自由行動]
 | `02_Writing_Guide.md` | 描写生成時（文体・文字数・構成ルール） |
 | `04_Ero_Scene_Rule.md` | 親密シーン描写時（使用語彙・禁止表現・ペーシング） |
 | `05_Save_Load.md` | ユーザーからの手動セーブ指示、またはロード時 |
-| `20_Characters/21_Player_Profile.md` | 常に参照。主人公（ショタ君）の固定設定が記載されている |
+| `20_Characters/21_Player_Profile.md` | 常に参照。主人公の固定設定が記載されている |
 | `99_Ero_Library/Dirty_Talk_Multilingual.md` | 官能シーンの卑語・愛称参照時 |
 | `99_Ero_Library/Heroine_Voice.md` | ヒロインの喘ぎ声・セリフ参照時 |
 | `99_Ero_Library/Situation_Patterns.md` | エロ展開のシチュエーション参照時 |
